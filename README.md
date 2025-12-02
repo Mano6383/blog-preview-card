@@ -24,7 +24,7 @@ Add your screenshot here:
 
 Solution URL: https://github.com/Mano6383/blog-preview-card.git
 
-Live Site URL: Add your Netlify/Vercel link here
+Live Site URL: (https://clever-salmiakki-f17e88.netlify.app/)
 
 🛠 My Process
 💻 Built With
